@@ -34,7 +34,7 @@ variable "firewall_rule_name" {
   type        = string
   description = "Firewall Rule Name"
 }
-variable "repo_url" {
+variable "repo_URL" {
   type        = string
   description = "Repo URL docker hub"
 }
